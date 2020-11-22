@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "UrunKodu": "099",
+    "UrunAdi": "Knack Fermuar Detaylı Erkek Sneaker Ayakkabı",
+    "UrunAciklamasi": "Knack Fermuar Detaylı Erkek Sneaker Ayakkabı Ürün Açıklaması",
+    "Fiyat": 79.9,
+    "StokAdedi": 20,
+    "Resimler": [
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f0498b81b299820a4080a67_knack-fermuar-detayli-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      },
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f0498bc1b299820a4080ab9_knack-fermuar-detayli-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      },
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f0498c31b299820a4080b60_knack-fermuar-detayli-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "UrunKodu": "011018",
+    "UrunAdi": "Knack Günlük Tarz Erkek Sneaker Ayakkabı",
+    "UrunAciklamasi": "Knack Günlük Tarz Erkek Sneaker Ayakkabı Ürün Açıklaması",
+    "Fiyat": 99.9,
+    "StokAdedi": 20,
+    "Resimler": [
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f04f3a59f0ad52370061343_knack-gunluk-tarz-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      },
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f04f39a9f0ad5237005c967_knack-gunluk-tarz-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "UrunKodu": "011019",
+    "UrunAdi": "Knack Günlük Tarz Erkek Sneaker Ayakkabı",
+    "UrunAciklamasi": "Knack Günlük Tarz Erkek Sneaker Ayakkabı Ürün Açıklaması",
+    "Fiyat": 89.9,
+    "StokAdedi": 20,
+    "Resimler": [
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f04f3a59f0ad52370061343_knack-gunluk-tarz-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      },
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f04f39a9f0ad5237005c967_knack-gunluk-tarz-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "UrunKodu": "077",
+    "UrunAdi": "Knack Fermuar Detaylı Erkek Sneaker Ayakkabı",
+    "UrunAciklamasi": "Knack Fermuar Detaylı Erkek Sneaker Ayakkabı Ürün Açıklaması",
+    "Fiyat": 79.9,
+    "StokAdedi": 20,
+    "Resimler": [
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f0498b81b299820a4080a67_knack-fermuar-detayli-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      },
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f0498bc1b299820a4080ab9_knack-fermuar-detayli-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      },
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f0498c31b299820a4080b60_knack-fermuar-detayli-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "UrunKodu": "011019",
+    "UrunAdi": "Knack Günlük Tarz Erkek Sneaker Ayakkabı",
+    "UrunAciklamasi": "Knack Günlük Tarz Erkek Sneaker Ayakkabı Ürün Açıklaması",
+    "Fiyat": 99.9,
+    "StokAdedi": 20,
+    "Resimler": [
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f04f3a59f0ad52370061343_knack-gunluk-tarz-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      },
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f04f39a9f0ad5237005c967_knack-gunluk-tarz-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "UrunKodu": "011020",
+    "UrunAdi": "Knack Günlük Tarz Erkek Sneaker Ayakkabı",
+    "UrunAciklamasi": "Knack Günlük Tarz Erkek Sneaker Ayakkabı Ürün Açıklaması",
+    "Fiyat": 89.9,
+    "StokAdedi": 20,
+    "Resimler": [
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f04f3a59f0ad52370061343_knack-gunluk-tarz-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      },
+      {
+        "Resim": "https://www.bayserif.com/content/images/thumbs/5f0/5f04f39a9f0ad5237005c967_knack-gunluk-tarz-erkek-sneaker-ayakkabi-beyaz_350.jpeg"
+      }
+    ]
+  }
+]

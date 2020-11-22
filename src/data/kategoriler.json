@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "KategoriKodu": "1",
+    "KategoriAdi": "Ayakkabı",
+    "Sira": 1
+  },
+  {
+    "id": 2,
+    "KategoriKodu": "2",
+    "KategoriAdi": "Kazak",
+    "Sira": 5
+  },
+  {
+    "id": 3,
+    "KategoriKodu": "1",
+    "KategoriAdi": "Saat",
+    "Sira": 3
+  },
+   {
+    "id": 4,
+    "KategoriKodu": "1",
+    "KategoriAdi": "Cüzdan",
+    "Sira": 2
+  },
+   {
+    "id": 5,
+    "KategoriKodu": "1",
+    "KategoriAdi": "Gömlek",
+    "Sira": 4
+  }
+  
+]

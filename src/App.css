@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-bottom: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+  transition: all 0.2s ease-in;
+}
+a:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  margin-right: 1.2em;
+}
+nav.top-menu {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: calibri;
+}
+.top-menu ul {
+  list-style-type: none;
+  margin-bottom: 0px;
+}
+.top-menu li {
+  display: inline-block;
+  margin-left: 1.2em;
+}
+.top-menu li:hover {
+  text-decoration: underline;
+}
+ul.category-menu {
+  margin-bottom: 0px;
+  list-style-type: none;
+  padding: 10px 5px;
+  font-size: 0.9em;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.5);
+}
+.category-menu li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.navbar-toggler-icon {
+  width: 1em;
+  height: 1em;
+  padding: 0.25rem 0.5rem;
+}
+
+.border-y {
+  border-bottom: 1px solid #e0e0e0;
+  border-top: 1px solid #e0e0e0;
+}
+.d-flex {
+  display: flex;
+}
+.flex-row {
+  flex-direction: row !important;
+}
+.search-form {
+  flex: 1;
+}
+.search-group {
+  display: flex;
+  border: 1px solid #f0f0f0;
+  background-color: #faf9f9;
+  border-radius: 50px;
+}
+.search-group input,
+button {
+  background-color: #faf9f9;
+  border: none;
+}
+.search-group:first-child {
+  flex: 1;
+}
+
+div.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+  color: rgba(0, 0, 0, 0.5);
+  display: flex;
+    justify-content: space-between;
+
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  text-align: center;
+  padding: 5px 15px;
+  text-decoration: none;
+  min-width:75px;
+  font-weight: 600;
+}
+
+div.scrollmenu a:hover a:before{
+  color: white;
+  background-color: #F28232;
+  border-radius: 25px;
+}
+
+.bg-light-gray{
+  background-color: #faf9f9;
+}
+
+@media screen and (max-width: 768px) {
+  .hide-sm {
+    display: none;
+  }
+  .top-menu {
+   padding: 1em 0px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+
+  .top-menu {
+    padding: 1.3em 0px;
+  }
+}
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
