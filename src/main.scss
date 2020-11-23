@@ -31,8 +31,11 @@ a {
 .custom-container{
   max-width: 850px;
   width: 100%;
-  padding:0px 5px;
-  margin:0px auto ;
+
+  padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .logo {
   display: flex;
@@ -121,7 +124,9 @@ div.scrollmenu {
   overflow: auto;
   white-space: nowrap;
   color: rgba(0, 0, 0, 0.5);
-
+  &::-webkit-scrollbar{
+    display: none;
+  }
   a {
     display: inline-block;
     text-align: center;
@@ -270,7 +275,7 @@ div.scrollmenu {
       text-align: center;
     }
     input {
-      width: 40px;
+      width: 47px;
       border: 1px solid #eee;
       text-align: center;
       font-weight: 600;
@@ -383,8 +388,13 @@ input[type="number"]::-webkit-outer-spin-button {
     left: 0;
     bottom: 0;
     width: 100%;
-    border-top: 1px solid #eee;
     background-color: #fcfcfc;
+    box-shadow: 0 -3px 5px -6px #515151;
+    }
+  .order-wrap{
+    padding: .6rem 1rem!important;
+    margin:0px -5px!important;
+    
   }
   .count-form {
     flex-direction: column;

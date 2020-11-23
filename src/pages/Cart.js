@@ -26,9 +26,9 @@ export default function Cart() {
           </div>
         </div>
         <div className="col-md-3 px-0">
-          <div className="mt-3 order-summary" ref={ref}>
-            <button className="primary-button hide-sm">Sepeti Onayla</button>
-            <div className="card-border p-3 my-2">
+          <div className="order-summary" ref={ref}>
+            <button className="primary-button hide-sm my-2">Sepeti Onayla</button>
+            <div className="order-wrap card-border p-3">
               <h1 className="section-title">Sipariş Özeti</h1>
               <div className="price-details d-flex justify-content-between">
                 <span className="text-muted">Ürün Toplamı</span>
